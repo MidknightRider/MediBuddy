@@ -904,6 +904,53 @@ stuff = [
      Watermelon Juice Helps Flush Out Kidney Stones:The water and potassium content present in watermelon are essential nutrients for a healthy kidney. It helps in regulating and maintaining the level of acid present in the urine. Eating watermelon or drinking its juice every day will help in flushing out stones from the kidney.
      Figs for Dissolving Kidney Stones:Boil two figs in a cup of water and drink it on an empty stomach early in the morning.""",
      ),
+    ("""Vertigo""",
+     """""",
+     """"Common Causes:
+     An infection in ear for example syphilis.
+     Due to the free-floating calcium carbonate crystals in the posterior semicircular canals of the inner ear.
+     Brain Tumors, Acute head injury, Thyroid, Anemia.""",
+     """Home Remedies:
+     Soak 1 tsp of amla (gooseberry) powder in water along with 1 tsp coriander seeds. Leave overnight. Strain and add 1/2 tsp sugar and drink.
+     Try to relax your body and make sure you have enough sleep because lack of sleep can aggravate vertigo and cause sudden dizziness and nausea.
+     High intake of liquids such as juice and water prevents dizziness.""",
+     ),
+    ("""Vomiting""",
+     """""",
+     """Common Causes:
+     Food Poisoning.
+     Pregnancy
+     Disgusting sights and smells
+     Certain drugs""",
+     """Home Remedies:
+     Heat 2 cardamoms on a dry saucepan. Powder them and add a tablespoon of honey and take frequently.
+     Try mint tea to get relief from vomiting. Add mint leaves in boiling water. Strain the leaves and serve your tea.
+     Ginger is another ingredient to cure the problem of vomiting. Ginger is good for your digestive system and helps to block unnecessary secretion inside the stomach that can cause vomiting.""",
+     ),
+    ("""Whiteheads""",
+     """""",
+     """Common Causes:
+     Hormonal Changes
+     Medications
+     Excessive use of cosmetics
+     Poor Hygiene""",
+     """Home Remedies:
+     Baking Soda exfoliates your skin and helps get rid of dead skin cells. It also maintains the pH balance of your skin.
+     Oatmeal opens your pores and prevents it from clogging. It also absorbs excess oil secretion and serves as an excellent scrub.
+     Rich in ascorbic acid, lemon juice can help reduce whiteheads. Extract the juice of a lemon into a small bowl and apply it on the affected areas of your skin using a piece of clean cotton.""",
+     ),
+    ("""Yeast_Infection""",
+     """Symptoms:
+     Oral candida infections are usually characterized by development of cracks at the corners of the mouth, white spots inside the mouth and tongue, soreness of the throat accompanied by difficulty in swallowing and redness and discomfort in the mouth.
+     """,
+     """Common Causes:
+     antibiotics are believed to be the major culprits in causing a yeast infection. They do this by disturbing the normal healthy microorganisms and making conditions favorable for the growth of candida.
+     Many other factors such as lack of sleep, stress, overconsumption of alcohol, refined sugar etc, too, may lead to development of yeast infections.""",
+     """Home Remedies:
+     Use warm water and soap to clean the affected parts thoroughly, and wear clean, dry underwear made of breathable fabrics. You may also try boric acid as a remedy to curb recurrent yeast infections.
+     Wipe your sweat often and avoid staying too long in wet clothes. Use antifungal powders and creams on areas that are moist and more prone to yeast infections. Avoid wearing tight clothing-choose light, loose, soft fabrics that are clean.
+     """,
+     ),
 ]
 
 add_many(stuff)

@@ -9,4 +9,4 @@ c.execute("DROP TABLE diseases")
 conn.commit()
 conn.close()
 
-print("Successful")
+print("Table has been deleted.")

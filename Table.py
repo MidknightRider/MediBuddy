@@ -12,3 +12,5 @@ c.execute('''CREATE TABLE diseases (
 
 conn.commit()
 conn.close()
+
+print("Table has been created!")
