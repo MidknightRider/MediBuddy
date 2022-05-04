@@ -427,7 +427,259 @@ stuff = [
      Ginger tea reduces inflammations and infections, thereby, reducing the fever.
      Capsaicin found in cayenne pepper induces sweating and improves blood circulation. This is why the use of cayenne pepper is one of the most useful home remedies for fever.
      Drinking lemon juice in lukewarm water can ward off the fever.""",
-     )
+     ),
+    ("""Eczema""",
+     """""",
+     """Common Causes:
+     Dust mites and pollen.
+     Soaps or detergents.
+     Specific allergies to foods.""",
+     """Home Remedies:
+     Coconut oil can be used as a natural moisturizer.
+     Nutmeg against a smooth stone with a few drops of water. Make a smooth paste. Apply.
+     Bathing plays an important role in eczema treatment, as it helps moisturize the skin.""",
+     ),
+    ("""Lice""",
+     """""",
+     """Common Causes:
+     Lice spread through close head-to-head contact
+     Sharing of combs, brushes etc.""",
+     """Home Remedies:
+     Make a mixture with 1 teaspoon lime juice and 1 teaspoon garlic paste. 
+     Apply on scalp. Leave for half hour and wash.
+     Salt can help remove head lice through desiccation. Mix one-quarter cup of salt and one-quarter cup of vinegar thoroughly.
+     Gently spray the mixture onto your 
+     hair till it becomes slightly wet. Use a shower cap to cover your head, leave it for about two hours. Then wash and shampoo your hair.""",
+     ),
+    ("""Low_Back_Pain""",
+     """""",
+     """Common Causes:
+     Wrong posture while sitting, standing, 
+     walking or lifting heavy objects is the most 
+     common cause of all back pains. Other causes 
+     of back pain include slipped disc, sciatica, 
+     whiplash, frozen shoulder and ankylosing spondylitis.""",
+     """Home Remedies:
+     Soothe the Pain with Cold or Hot Packs
+     Get Some Sleep in a Comfortable Mattress
+     Correct Your Posture – Sitting, Standing and Walking
+     Be on the Move.""",
+     ),
+    ("""Malaria""",
+     """""",
+     """Common Causes:
+     Plasmodium parasites (cause malaria)
+     Anopheles mosquitoes (spread malaria)
+     Climatic conditions
+     Travelers
+     Migrants.""",
+     """Home Remedies:
+     No Home remedies treatment by doctors expected.""",
+     ),
+    ("""Measles""",
+     """""",
+     """Common Causes:
+     Personal contact
+     Droplets from coughs and sneezes
+     Immunodeficiency due to HIV/AIDS
+     Malnutrition
+     Vitamin A deficiency.""",
+     """Home Remedies:
+     Fresh Orange juice had 2 times is good
+     Barley water should be taken 2-3 times.
+     Lemonade should be taken often.""",
+     ),
+    ("""Menstrual_Cramps""",
+     """""",
+     """Common Causes:
+     Primary dysmenorrhea or menstrual cramps 
+     usually affect young girls and are caused due to contractions of the 
+     uterus that occur in response to prostaglandin, a hormone-like substance that works to stimulate contractions necessary for shedding the uterine lining.""",
+     """Home Remedies:
+     Regular Exercise
+     Use Hot Water Bottle
+     Drink Water
+     Yoga.""",
+     ),
+    ("""Mouth_ulcer""",
+     """""",
+     """Common Causes:
+     Nutritional deficiencies such as iron, vitamins, especially B12 and C
+     Poor dental hygiene
+     Food allergies
+     Stress
+     Infections, particularly herpes simplex
+     Biting the cheek.""",
+     """Home Remedies:
+     grate some fresh coconut. 
+     Extract the milk and gargle with this 3-4 times a day.
+     Keep 1 glass of chilled water and 
+     1 glass of hot water ready at hand. 
+     Gargle alternately with hot and cold water.""",
+     ),
+    ("""Mumps""",
+     """""",
+     """Common Causes:
+     Paramyxovirus
+     Droplets from coughs and sneezes
+     Lack of immunization.""",
+     """Home Remedies:
+     Make a paste made with dry ginger 
+     powder and water and apply it on the
+     visibly swollen parts.
+     Aloe Vera is an excellent remedy for treating mumps. Peel off a fresh piece of Aloe Vera leaf and rub the gel 
+     on the affected area to relieve from swelling and pain.""",
+     ),
+    ("""Neck_Pain""",
+     """""",
+     """Common Causes:
+     Muscle strain
+     Sitting in an improper posture,
+     sleeping in the wrong position.""",
+     """Home Remedies:
+     Cold or Warm Packs
+     Transcutaneous Electrical Nerve Stimulation.""",
+     ),
+    ("""Nosebleed""",
+     """""",
+     """Common Causes:
+     Nose picking
+     Nose injury
+     Cold or flu
+     Inserting small objects
+     Allergies.""",
+     """Home Remedies:
+     Dab a cotton ball in apple cider vinegar and place in your nostril. 
+     This helps in reducing the flow of blood from your nose.
+     Apply an ice pack or cold compress across the
+     bridge of your nose for at least 5 to 10 minutes.""",
+     ),
+    ("""Obesity""",
+     """""",
+     """Common Causes:
+     Lifestyle
+     Excess calorie intake
+     Quality of diet (too much of fatty foods)
+     Spacing of meals (eating very often)
+     Hormones
+     Metabolism.""",
+     """Home Remedies:
+     Make a mixture of 1 teaspoon of honey and lemon juice in a glass of warm water,
+     mix well and have this mixture daily in the morning.
+     Vegetables such as tomatoes, carrots and dark green leafy vegetables are low-calorie foods that are good for your health. Therefore, include some vegetables salad and fruits in your daily
+     diet to keep you full and satisfied throughout the day.
+     """,
+     ),
+    ("""Osteoporosis""",
+     """""",
+     """Common Causes:
+     Age
+     Hormone levels
+     Optimal bone mass
+     Quality of the bone
+     Diseases and medications.""",
+     """Home Remedies:
+     Exercises
+     Vitamin D and Calcium
+     Prevent falls
+     Milk recipes
+     """,
+     ),
+    ("""Peptic_Ulcer""",
+     """""",
+     """Common Causes:
+     Bacterial infection (Helicobacter pylori)
+     Non-steroidal Anti-Inflammatory Drugs like aspirin, ibuprofen (NSAIDs)
+     Smoking, stress, etc., increase susceptibility
+     Immune Abnormalities
+     Alcoholism.""",
+     """Home Remedies:
+     Fenugreek leaves contain compounds that can 
+     heal the ulcer. Boil 1 cup of fenugreek leaves 
+     and add a pinch of salt to it. Drink this twice a day.
+     Drinking raw cabbage juice is very effective for treating stomach ulcer. 
+     Consume fresh cabbage juice daily before your bedtime. """,
+     ),
+    ("""Piles""",
+     """""",
+     """Common Causes:
+     Low fiber diet
+     Pregnancy
+     Aging
+     Hereditary
+     Chronic constipation.""",
+     """Home Remedies:
+     Black Cumin Seeds Reduce Pain Associated with Piles
+     Radish Juice Soothes Digestive System
+     Ripe Bananas Relieve Hemorrhoid Pain
+     Drink a glass of buttermilk with 1/4 tsp of carom 
+     seed powder (ajwain) and a pinch of salt. Buttermilk is advised 
+     as a part of the regular diet for people with piles.
+     """,
+     ),
+    ("""Poor_Appetite""",
+     """""",
+     """Common Causes:
+     Bacteria and viruses
+     Chronic liver disease
+     Depression
+     Dementia
+     Eating disorder
+     Heart failure
+     Hepatitis.""",
+     """Home Remedies:
+     Bitter greens such as kale, collard, endives, dandelion, arugula 
+     and red or green mustard can help 
+     stimulate your appetite and regulate your digestive system
+     Gaining a better control over your daily routine 
+     will help you get back the lost appetite.""",
+     ),
+    ("""Psoriasis""",
+     """""",
+     """Common Causes:
+     The cause of psoriasis is not very well known, but 
+     several risk factors increase the susceptibility of 
+     the individuals to acquire psoriasis. These include 
+     family history and environmental factors 
+     such as smoking, stress, obesity, and alcohol consumption.""",
+     """Home Remedies:
+     Aloe Vera
+     Apple Cider vinegar
+     Capsaicin-Chili peppers are also claimed to be one of the most effective 
+     and helpful herbal remedies for psoriasis.""",
+     ),
+    ("""Pyorrhea""",
+     """""",
+     """Common Causes:
+     Improper brushing habits
+     Poor oral hygiene
+     Improper nutrition
+     .""",
+     """Home Remedies:
+     Chewing guava leaves or unripe guava helps in curing 
+     bleeding from gums and keeps the teeth healthy. It acts 
+     as a teeth tonic due to the high amount of vitamin C.
+     Drinking 1 cup of spinach juice mixed with 1 cup of carrot juice is another 
+     effective remedy for the prevention and treatment of pyorrhea.
+     """,
+     ),
+    ("""Quit_Smoking""",
+     """""",
+     """Common Causes:
+     Peer pressure
+     To socialize
+     Association with status
+     As a crutch to cope with stress or awkwardness
+     Cultural reasons espoused through popular media
+     .""",
+     """Home Remedies:
+     Black Pepper: It can actually help you overcome those 
+     nicotine cravings when you’re attempting to quit smoking
+     Think Positive: Your mindset has a lot to do with how successful you are in your endeavors. 
+     Preparing for failure only sets you up for one. While it’s important that you don’t get disillusioned with failure, don’t try to 
+     quit smoking if you don’t believe you can do it.
+     """,
+     ),
 ]
 
 add_many(stuff)
