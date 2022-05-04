@@ -680,6 +680,230 @@ stuff = [
      quit smoking if you don’t believe you can do it.
      """,
      ),
+    ("""Gas""",
+     """""",
+     """Common Causes:
+     Overproduction of bacteria in the stomach.
+     Foods containing a lot of fiber.
+     Products made with malt extracts.
+     Digestive disorders such as gastroenteritis.
+     Irritable bowel syndrome (IBS).""",
+     """Home Remedies:
+     Mix 1/2 tsp dry ginger powder with a pinch of asafoetida and a pinch of rock salt, in 1 cup of warm water. Drink.
+     A drop of dill oil in a tsp of honey taken immediately after a meal will help.
+     Mix 2 tsp of brandy with a cup of warm water and drink before going to bed.""",
+     ),
+    ("""Genital_Warts""",
+     """""",
+     """Common Causes:
+     Skin-to-skin contact during sexual activity.
+     From an infected mother to child during birth.
+     Sharing of swimsuits, underwear or bath towels with the infected person.
+     From hands of an infected mother to baby during activities such as diaper changing.""",
+     """Home Remedies:
+     mix a few drops of tea tree oil in half a bucket of water and soak in this water for about 30 minutes. This will also help to reduce the itching around warts.
+     Apply a little castor oil directly on the warts and the surrounding skin before going to bed. Leave it for the night and wash in the morning. In about 2 to 3 weeks, the warts turn black and fall off.
+     Onion is anti-microbial and in combination with salt, it can help in the healing of the genital warts. Soak onion (sliced sprinkled with salt) overnight, make a paste and extract the juice of this paste by passing through a sieve. Apply this juice to the genital warts everyday for about 3-4 weeks, till the warts peel off.""",
+     ),
+    ("""Gingivitis""",
+     """""",
+     """Common Causes:
+     Uncontrolled diabetes greatly increases the risk.
+     Hormonal changes brought on by puberty, early adulthood and pregnanc.y
+     Ill-fitted dentures, braces and other oral appliances or chipped teeth, misaligned teeth and rough cavity fillings.
+     Certain systemic diseases and the use of medications like phenytoin and bismuth.""",
+     """Home Remedies:
+     Brush your teeth.
+     Floss regularly.
+     Saline rinse""",
+     ),
+    ("""Gout""",
+     """""",
+     """Common Causes:
+     Kidney failure.
+     Hereditary factors.
+     Obesity.
+     Diuretics.
+     High blood pressure.""",
+     """Home Remedies:
+     Eat 1 apple after every meal to treat gout.
+     Drink a glass of lime juice in the morning,noon and night to get rid of gout.
+     Drink bean juice everyday to keep gout at bay.""",
+     ),
+    ("""Gray_Hair""",
+     """""",
+     """""",
+     """Home Remedies:
+     Mix amla pulp with coconut oil or almond oil and massage into the scalp. This mixture will act as a colorant; and the oils will moisturize and enrich the scalp. Amla juice or amla can be cooked as a vegetable and consumed to slow or halt the growth of gray hair.
+     Henna leaves or mehandi leaves is a natural auburn dye prepared from the Lawsonia inermis tree. Crushed henna leaves or powder can be made into a paste with a variety of other hair darkening substances such as lemon juice, vinegar, tea, and coffee. It is then kept overnight in an iron container, before it is applied to hair.
+     Coffee can also dye your gray hair dark brown or black. Again, mix coffee decoction with henna or your hair conditioner and leave it on for a couple of hours. Repeat this once every week to get the desired color. You can also simply rinse off your hair after shampooing with cooled coffee water.""",
+     ),
+    ("""Hair_Loss""",
+     """""",
+     """Causes:
+     Hairstyles: Everybody wants their hair to look good by trying different kinds of hairstyles that may look stylish, but there are some hairstyles that tend to pull the hair so tightly that they cause hair fall.
+     Scalp infection: Itchy scalp may be caused due to some infections like severe dandruff and ringworm, a fungus that results in red, itchy patches on the scalp and leads to hair loss.
+     Poor diet: Hair loss may also be due to poor diet that misses out on vital ingredients like proteins, iron, vitamins and minerals and other micronutrients.
+     Too much stress can Trigger hair fall.""",
+     """Home Remedies:
+     Coconut milk: Apply coconut milk on the scalp and massage it in the hair roots. It helps in nourishing the hair and promotes hair growth.
+     Henna: It is a natural hair colorant and hair conditioner. Make a mixture of henna powder, one egg and a cup of curd. Mix all these ingredients well, leave it for a night and apply the henna paste on the hair the next day. Leave it on for an hour and wash with warm water.
+     Neem: Tired of your dandruff and hair fall? Try Neem, a natural antiseptic and anti-bacterial agent, which helps in treating the scalp and hair problem without any side effect. Boil 2 cups of water and add a handful of neem leaves in the boiling water. Leave till the water turns into greenish color. Use the neem water after the last rinse of your hair wash. This will keep your hair and scalp healthy.""",
+     ),
+    ("""Halitosis""",
+     """""",
+     """Causes:
+     Periodontitis.
+     Certain foods.
+     Alcohol.
+     Smoking.
+      Diabetes.""",
+     """Home Remedies:
+     Chewing a very green Guava which is almost raw, helps.
+     Chew a Green cardamom after meals for fresh breath.
+     Put three whole cloves in two cups of very hot water and let it steep for 20 minutes. You can drink this clove tea or use it as a mouthwash twice a day for fresh breath.""",
+     ),
+    ("""Headache""",
+     """""",
+     """Causes:
+     Several physiologic changes in the head and brain.
+     Dilation and constriction of blood vessels.
+     Abnormal activity of certain neurons.
+     Genetic factors may be a cause for migraines.
+     Smoking and alcohol may cause cluster headaches.""",
+     """Home Remedies:
+     Roast some caraway seeds dry. Tie in a soft handkerchief or muslin cloth and sniff to get relief from headaches.
+     Add 2 teaspoons of powdered cinnamon to 1 ½ cup of milk and boil it for one or two minutes. Add a teaspoon of honey, mix and stir it thoroughly and drink it at least twice a day when suffering from a headache.
+     Eating a chopped apple sprinkled with salt every morning for at least a week will help cure chronic headaches.""",
+     ),
+    ("""Hiccups""",
+     """""",
+     """Common Causes:
+     Stretching of the stomach after eating or drinking.
+     Sudden emotional excitement.
+     Sudden change of air temperature (e.g. cool shower).
+     Very hot/cold food or drink.
+     Alcohol or excess smoking.""",
+     """Home Remedies:
+     Have a teaspoon of sugar and allow it to dissolve slowly in your mouth without chewing it. This remedy is especially for toddlers and children who are unable to follow detailed instructions on breathing pattern.
+     Mix one cup of yogurt with a teaspoon of salt, stir it thoroughly until the salt dissolves completely. Have the yogurt slowly: this will help stop your hiccups.
+     Peel a small piece of fresh ginger and chew on it slowly to get rid of your hiccups.""",
+     ),
+    ("""Hot_Flashes""",
+     """""",
+     """Common Causes:
+     Hot flashes are caused by hormonal changes around the time of menopause. During this stage, the ovaries stop functioning. Therefore, the levels of hormones estrogen and progesterone that are normally produced by the ovaries decrease, resulting in hot flashes.""",
+     """Home Remedies:
+     Wear soft cotton clothes to make you feel comfortable during the attack. If the weather is cool, consider wearing a coat or a sweater, which you can remove when a hot flash begins.
+     Hot flashes are usually triggered by stimuli like spicy food, coffee, alcohol etc. You may have to avoid the specific substance that triggers your hot flashes.
+     Smoking can also trigger hot flashes. Therefore, avoid smoking if possible.""",
+     ),
+    ("""Hypothyroidism""",
+     """""",
+     """Common Causes:
+     Hypothyroidism can be due to a number of reasons, including thyroid surgery, autoimmune disease, medications, iodine deficiency, pregnancy complications, and improper diet. Other causes can be hereditary or congenital anomaly having a dysfunctional thyroid gland at birth.
+     History of hypothyroidism in the family is a more likely risk factor for developing the disease. Sometimes a tumor in the pituitary gland could stop the production of thyroid hormones. Radiation therapy may also affect thyroid gland function and cause hypothyroidism""",
+     """Home Remedies:
+     Include Probiotics in Diet: Probiotics are gut-friendly bacteria that help better digestion and improve metabolism. Thyroid function highly depends on how healthy is your digestive system. Improper digestion and low level of good bacteria in the stomach may reduce thyroid hormone production.
+     Apple Cider Vinegar: Apple cider vinegar is good for hormone regulation and detoxification of the body. It helps lose weight, improve the metabolism of fats and carbohydrates and maintain a proper alkaline acid balance in the body. It is beneficial in controlling other chronic diseases like high cholesterol, blood pressure and diabetes.
+     Exercise: Regular physical activity ensures the proper functioning of vital body organs, regulates endocrine gland functions, uplifts mood, improves metabolism, flushes body toxins and maintains a healthy weight. Few thyroid-related symptoms like fatigue, loss of appetite and osteoporosis can be combated through a regular 30-minute exercise regime.""",
+     ),
+    ("""Insect_Bites""",
+     """Symptoms:
+     Swelling.
+     Localized pain.
+     Redness.
+     Itching.
+     Rashes.""",
+     """Common Causes:
+     Mosquitoes.
+     Fleas.
+     Mites.
+     Spiders.
+     Bees.""",
+     """Home Remedies:
+     Aloe vera gel is a natural antiseptic agent that is very effective in treating insect bites. Take a fresh aloe vera leaf, simply cut it open and rub it onto the affected area to reduce the swelling, pain and itching sensation.
+     Onion contains enzymes that help break down the inflammatory compounds. Cut a slice of onion and rub it over the affected part.
+     Baking soda is another ingredient that is used for treating insect bites. Take a teaspoon of baking soda and add a few drops of water, mix well till it makes a paste. Apply this paste gently onto the affected area, leave for a few minutes and wash off with warm water.""",
+     ),
+    ("""Insomnia""",
+     """""",
+     """Common Causes:
+     Physical - Pain, arthritis, headaches, itching, restless leg syndrome.
+     Physiological - Disruptions in the sleeping environment, including light, noise, jet lag, reading heavy books etc.
+     Psychological - Anxieties, depression, dementia, work related worries, relationship problems or death of closer ones.""",
+     """Home Remedies:
+     Eat at least 3 cups of curds daily.
+     Mix 2 tsp of honey to 1 glass of warm water. Drink just before sleeping. Give half the amount to babies; it will help put them to sleep.
+     Drink warm milk with honey.""",
+     ),
+    ("""Intestinal_Worm""",
+     """Symptoms:
+     Stomach pain.
+     Diarrhea.
+     Dysentery.
+     Weight loss.
+     Tiredness.""",
+     """Common Causes:
+     Eating contaminated food.
+     Drinking contaminated water.
+     Poor sanitation.
+     Using human excretion as fertilizer.
+     Poor personal hygiene.""",
+     """Home Remedies:
+     Pumpkin Seeds: Natural Remedy for Tapeworm:A mixture of ground pumpkin seeds and water can help expel tapeworms.
+     Carrots are known for treating intestinal worms, as they are rich in fiber. Munch 2 carrots on an empty stomach in the morning. Doing this daily will not only help you get rid of parasites, but also prevent parasite attack in the future.
+     Wormwood is a powerful herb that has been used since ancient times to treat intestinal worms. Drink a mixture of wormwood oil and olive oil to get rid of worms.""",
+     ),
+    ("""Itchy_Scalp""",
+     """Symptoms:
+     An itchy scalp is identified by an itchy sensation on the scalp, which is sometimes very severe, and is accompanied by tender, painful spots on the scalp or a burning sensation.""",
+     """Common Causes:
+     Fungal and/or viral infections of the scalp.
+     Anxiety and stress.
+     Hair lice.
+     Dryness of the scalp (due to weather changes).
+     Sebaceous cysts.""",
+     """Home Remedies:
+     Essential Oil Power- Don’t restrict the use of essential oils to just aromatherapy; a mixture of essential oils is considered a good home remedy for an itchy scalp. Choose from natural oils like lavender oil, tea tree oil, almond oil, coconut oil, avocado oil, olive oil and peppermint oil.
+     Lemon Goodness- Yet another powerful home remedy for treating an itchy scalp is the lemon. Simply squeeze a lemon, and apply its juice directly to your scalp before shampooing. This home remedy is effective in treating dandruff too!
+     Apple Cider to the Rescue- You may find apple cider vinegar cropping up in the home remedies section of almost every condition; and why not? With its powerful anti-inflammatory properties and its natural goodness, apple cider is truly a star!""",
+     ),
+    ("""Itchy_Skin""",
+     """""",
+     """Common Causes:
+     Skin lesions.
+     Dry skin.
+     Internal illnesses.
+     Pregnancy.
+     Menopause.""",
+     """Home Remedies:
+     Apple cider vinegar (ACV) is an effective antiseptic agent that helps relieve dry and itchy skin. Dab a cotton ball on the vinegar and apply on the itchy area, this will help the itching go away.
+     Aloe vera works wonders to treat itchy skin. Just slice a piece of aloe vera and rub the gel on the affected skin. This helps to relieve the irritation and swelling of the skin.
+     Basil leaves contain a substance called eugenol, which is a very effective topical anesthetic. Boil some basil leaves into a tea, allowing it to cool, then use a cotton ball and apply on the itching part.""",
+     ),
+    ("""Jaundice""",
+     """""",
+     """Common Causes:
+     The red blood cells after a period of 4 months' time becomes fragile and become a yellow-colored chemical called Bilirubin. The body usually removes bilirubin from the bloodstream by passing it through the liver and to the kidneys for disposal. The liver, which plays a vital role in removing the bilirubin from the body, may not be able to do so for some reasons, where the bilirubin gets accumulated and causes jaundice.""",
+     """Home Remedies:
+     1/4 tsp of turmeric powder mixed in a glass of hot water taken 2-3 times a day.
+     Make a paste of tender papaya leaves. Take 1/2 tsp of this paste with 1 tsp honey.
+     Boil 1 cup of water, when it boils add 8-10 lemon leaves. Cover and leave for 4-5 minutes. Drink the decoction for 4-5 days.""",
+     ),
+    ("""Kidney_Stones""",
+     """""",
+     """Common Causes:
+     Urinary tract infection (UTI).
+     Overdoses of vitamin D.
+     Mineral imbalance.
+     Kidney disease.
+     Dehydration.""",
+     """Home Remedies:
+     Basil Leaves Good for Kidney Health:Basil leaves (Tulsi) are good for the overall health of kidneys. Mix 1 teaspoon of juice from basil leaves with 1 teaspoon of honey and have it daily in the morning. You can also chew two to three basil leaves in order to remove the stones from the urinary tract.
+     Watermelon Juice Helps Flush Out Kidney Stones:The water and potassium content present in watermelon are essential nutrients for a healthy kidney. It helps in regulating and maintaining the level of acid present in the urine. Eating watermelon or drinking its juice every day will help in flushing out stones from the kidney.
+     Figs for Dissolving Kidney Stones:Boil two figs in a cup of water and drink it on an empty stomach early in the morning.""",
+     ),
 ]
 
 add_many(stuff)
