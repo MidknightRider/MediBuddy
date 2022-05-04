@@ -951,6 +951,176 @@ stuff = [
      Wipe your sweat often and avoid staying too long in wet clothes. Use antifungal powders and creams on areas that are moist and more prone to yeast infections. Avoid wearing tight clothing-choose light, loose, soft fabrics that are clean.
      """,
      ),
+    ("""Rheumatism""",
+     """""",
+     """""",
+     """Home remedies:
+     Eat a healthy diet that contains vitamins and minerals like whole grain, fruits and veggies, olive oil, beans, herbs and spices to support your body's healing efforts.
+     Exercising will keep your body flexible and energetic and help maintain good movement that can reduce the pain and risk of joint injury.
+     A warm bath or shower can provide relief from joint pain.
+     Add 2 teaspoons of apple cider vinegar and honey in a glass of warm water. Have this mixture once or twice a day.""",
+     ),
+    ("""Ringworm""",
+     """""",
+     """Common Causes:
+     Through scratches or cuts in the skin.
+     Affects damp areas where sweating is common.
+     Using unwashed clothes or sharing combs of infected people.
+     Swimming pool.""",
+     """Home Remedies:
+     Rub a slice of freshly cut raw papaya on the patch.
+     Make a powder with mustard seeds. Add some water to the powder and make a paste. Apply on the patch till it disappears.
+     The juice of basil leaves (tulsi) to be applied on the patch 2-3 times a day.
+     Turmeric has great natural antibiotic qualities. Extract the juice from fresh turmeric and apply to the areas that are affected until you see the problem go away.""",
+     ),
+    ("""Rosacea""",
+     """""",
+     """Common causes:
+     Alcohol consumption.
+     Eating spicy foods.
+     Extereme Sunlight.
+     Hot baths.
+     Extreme temperatures.
+     Intense workout routines.
+     Drinking hot beverages.""",
+     """Home Remedies:
+     The anti-inflammatory properties present in chamomile helps reduce redness caused by rosacea.
+     Green tea with its antioxidant, anti-carcinogenic and anti-inflammatory properties is helpful in many skin conditions including rosacea.
+     Boil some green tea leaves, cool the solution and refrigerate. Use it as cold compress for relief from rosacea.
+     Cucumber, with its cooling properties gives relief from discomfort caused by rosacea symptoms.""",
+     ),
+    ("""Skin_pigmentation""",
+     """""",
+     """Common causes:
+     The melanin production goes awry; either too little or too much melanin is produced, causing skin pigmentation disorders.
+     The precursors of many disorders, are also known to cause skin pigmentation disorders.
+     Skin pigmentation disorders is accompanied by several itching.""",
+     """Home remedies:
+     Grate the skin of an orange and make a paste/gel with few teaspoons of milk. Leave it on for half an hour and then massage gently and wash it off with warm water. Exfoliate your face at least 3 to 4 times a week with this paste. Exfoliation encourages cell renewal and removes the dark blotches.
+     Make a face pack with almond and honey. Apply and wash it off after 15 minutes
+     Sunlight worsens the condition, so use sunscreen at all times.""",
+     ),
+    ("""Snoring""",
+     """""",
+     """Common causes:
+     Pregnancy.
+     Stress.
+     Distribution of fat in the body.
+     Low levels of estrogen/progesterone.
+     Menopause.
+     Age.""",
+     """Home remedies:
+     Snoring may be reduced with homeopathic medications with an efficacy rate of 80%.
+     Snoring is reduced with oropharyngeal sprays. These sprays have an efficacy rate of 30%.
+     Avoid alcohol.""",
+     ),
+    ("""Sore_Throat""",
+     """""",
+     """Common causes:
+     Viral infection.
+     Bacterial infection.
+     Fungal infection.
+     Smoking.""",
+     """Home Remedies:
+     Drink ginger tea.
+     Inhaling fragrances of essential oils can treat your sore throat.
+     Add honey and lemon juice to 1 cup of warm water, as it works best for sore throat."""
+     ),
+    ("""Sprains""",
+     """""",
+     """Common causes:
+     Running or walking on uneven ground.
+     Wearing high-heeled shoes.
+     Overstretching of a ligament.
+     During a fall.
+     Lifting heavy weight.""",
+     """Home remedies:
+     Chop onions, wrap them in a muslin cloth and place on the sprained area.
+     Make a paste of ground lemon leaves and butter. Apply on the affected area.
+     Mix 1 teaspoon of almond oil with 1 teaspoon of garlic oil and apply on the injured area.""",
+     ),
+    ("""Staph_infection""",
+     """""",
+     """Common causes:
+     Using infected objects, towels, clothes, utensils, etc.
+     Drug abuse - injecting infected needles.
+     Low immunity due to any medical condition.
+     Using an internal medical device such as catheter, feeding tube or fitted artificial joint.
+     Sharing gym and sports equipment.""",
+     """Home remedies:
+     Cotton soaked in apple cider vinegar applied over an infected region or mix with baking soda and apply it as a paste to rapidly reduce pain and discomfort.
+     Another bactericidal herb is tea tree. Its oil decreases the growth of bacteria reducing the effects of staph infection.""",
+     ),
+    ("""Stretch_marks""",
+     """""",
+     """common causes:
+     Pregnancy and stretch marks go together. The rapid weight gain coupled with many hormonal changes during pregnancy cause stretch marks.
+     Weight gain during puberty is caused by hormonal changes and this often results in stretch marks in both girls and boys.
+     Intake of oral or systemic steroids and use of medications such as Corticosteroid pills, creams and lotions can cause stretch marks.""",
+     """home remedies:
+     The benefits of aloe vera for health and beauty are now well known. The gel from aloe plant can also help lighten stretch marks if used on a regular basis on the affected areas.
+     The acidity in lemon juice helps lighten scars and marks and this can help reduce the appearance of stretch marks as well.
+     Massage affected areas with castor oil and keep it overnight. For more effective results apply some heat over it using a hot water bottle.
+     Full of Vitamin A and protein, egg whites can help reduce the appearance of stretch marks.""",
+     ),
+    ("""Stuffy_Nose""",
+     """""",
+     """Common causes:
+     Flu.
+     Common cold.
+     Sinusitis-Acute and chronic.""",
+     """Home remedies:
+     In the case of children, the pillow should be raised to elevate the childss head and ease the discomfort of the congestion in the nose.
+     In Dry climates, a humidifier is recommended to moisten the nasal passages and avoid the congestion of the nose.
+     Mucus should be removed at regular intervals. Older children may be asked to blow their noses. However, an aspirator should be used for infants.""",
+     ),
+    ("""Sun_burns""",
+     """""",
+     """Common causes:
+     Ultra violet rays of the sun.
+     direct sunlight.""",
+     """home remedies:
+     A dampened towel with cool water or cotton pads soaked in cool but not chilled water should be applied as soon as possible to the affected area. Repeat for few minutes and apply several times in day.
+     Fat free milk mixed with cold water can also be applied to affected area. This must be applied 2-4 times in a day to reduce the burning sensation and inflammation.
+     Drinking plenty of fluids will help in easing out the effects of sun exposure and keep the skin hydrated.""",
+     ),
+    ("""Toothache""",
+     """""",
+     """Common causes:
+     Dental decay.
+     Dental cavities.
+     Swelling of the pulp.
+     Tooth infection.
+     Broken tooth.""",
+     """Home remedies:
+     Garlic has antibiotics and other medicinal properties that can be very effective for treating toothache. Crush a clove of garlic with rock salt and apply on the affected tooth.
+     Place a piece of raw onion on the tooth. This will help in killing the germs in the affected tooth and offer relief from pain.
+     Mix equal amounts of pepper, salt and few drops of water to form a paste. Apply this paste on the affected area. This will help relieve the toothache.""",
+     ),
+    ("""Upset_stomach""",
+     """""",
+     """Common causes:
+     Alcohol excess.
+     Barbiturate abuse.
+     Food poisoning.
+     Gastritis.
+     Pregnancy.
+     Stress.""",
+     """Home remedies:
+     Baking soda is a common home remedy for treating upset stomach.
+     Papaya fruit contains papain, an enzyme that helps break down protein and soothe the stomach. It aid in digestion, eases indigestion and also helps with constipation.
+     Herbal teas such as ginger, sage, chamomile, peppermint and so on work wonder to ease down abdominal problems. They also relieve cramping stomach and intestinal muscles. Make some herbal tea and have it daily.""",
+     ),
+    ("""Urinary_tract_infection""",
+     """""",
+     """Common causes:
+     Dieabetes.
+     pregnancy.
+     Most commonly, it occurs as a result of bacterial invasion into the urinary tract, which is common during sexual activity with an infected person.""",
+     """Home remedies:
+     People suffering from frequent, recurring UTI can benefit a lot by using yogurt as a home remedy.
+     The lactobacilli-bacteria present in the yogurt, are thought to reduce the occurrence of urinary tract infection.""",
+     )
 ]
 
 add_many(stuff)
